@@ -1,0 +1,187 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#title{
+    background-color: #4a154b;
+}
+
+
+/* <navbar> */
+
+.navbar{
+ padding: 20px;
+}
+.navbar-toggler{
+    text-align: right;
+}
+.mainnavrow{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 53.04px;
+
+}
+
+li{
+    color:#ffffff;
+    font-weight: bolder;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    width: 125px;
+    outline: 1px solid #036cdb
+    box-sizing inherit;
+    
+
+}
+
+.mainnav{
+    padding: 0;
+    height: 80px;
+    background-color: #4a154b;
+    border-bottom: none;
+    z-index: 1;
+    top: 0;
+    position: fixed absolute;
+    width: 100%;
+    margin-bottom: 20px;
+    
+    
+    
+}
+
+.contentnav{
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    padding: 20px;
+}
+.dropdowndownloadicon{
+    color: black;
+}
+#searchdownload{
+    margin-left: 50px;
+}
+.logo-img path {
+    fill: #ffffff;
+  }
+ .secondnavbtn{
+    margin-left: 15px;
+    color: #4a154b;
+    font-weight: bolder;
+ }
+ /* MainHeader */
+.Mainheader{
+    padding-left: 53px;
+    padding-right: 53px;
+    text-decoration-color: #ffffff;
+    line-height: 1.5;
+}
+#Headingtext{
+    padding-bottom: 10px;
+}
+.titletext{
+    color: #ecb22e;
+}
+
+h1{
+    font-weight: bold;
+    line-height: 1.0625;
+    letter-spacing: -1.5px;
+    font-size: 350%;
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.Headertext{
+    color:#ffffff;
+    font-size: 150%;
+    padding-bottom: 30px;
+}
+.lowerheader{
+    margin-top: 20px;
+}
+/* TrustedCompanies */
+#TrustedCompanies{
+    padding: 30px;
+    background-color: #FDF4F5;
+}
+
+#text-TrustedCompanies{
+font-weight: 900;
+color: black;
+margin: auto;
+padding: 50px;
+text-align: center;
+}
+/* Instructions */
+#Instructions{
+    background-color: #FDF4F5;
+}
+    
+h2{
+    font-weight: bold;
+    line-height: 1.0625;
+    letter-spacing: -1.5px;
+    font-size: 350%;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    
+}
+/* grid */
+#grid{
+    background-color: #FDF4F5;
+}
+.card{
+    transition-duration: 8s;
+
+}
+.card:hover{
+    top: -10px;
+    right: -10px;
+
+}
+/* LowerHeader */
+
+#LowerHeader{
+    padding-top: 50px;
+    background-color: #4a154b;
+}
+
+/* footerLinks */
+#footerLinks{
+    padding-top: 30px;
+}
+.footertext{
+    color: black;
+    font-weight: bold;
+    
+}
+.linksfooter:hover{
+    color: #036cdb;
+
+}
+
+/* footer */
+
+#footer{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+  
+
+
+
+
+
+
+
+
+
